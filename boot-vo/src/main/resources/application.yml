@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: boot-vo
+  profiles:
+    active: dev

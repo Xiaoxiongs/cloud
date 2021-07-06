@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: boot-eureka
+  profiles:
+    #指向开发环境的yml文件
+    active: dev
