@@ -38,6 +38,8 @@
         <spring-cloud.version>Finchley.RELEASE</spring-cloud.version>
     </properties>
 
+
+
     <!--dependencyManagement 标签不会引入依赖 -->
     <dependencyManagement>
         <dependencies>
